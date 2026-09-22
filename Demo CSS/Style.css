@@ -1,0 +1,12 @@
+p{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: aquamarine;
+    border: 10px dotted antiquewhite;
+    
+}
+body{
+             background-image: url(abc.jpg);
+             background-position: center;
+             background-size: contain;
+    
+}
